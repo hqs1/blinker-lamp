@@ -1,6 +1,6 @@
 # blinker-lamp
 使用Blinker制作的台灯项目 
-![](https://www.hqshome.xyz/wp-content/uploads/2019/05/IMG_20181201_224240-e1558972834413.jpg)
+![](https://git.hqshome.xyz/wp-content/uploads/2019/05/IMG_20181201_224240-e1558972834413.jpg)
 # 目前已实现功能
 天猫精灵控制
 Blinker APP控制
